@@ -28,6 +28,12 @@
       padding: 20px;
       margin: 0 auto;
     }
+    
+    #profile {
+    height:300px;
+    width:200px;
+    }
+    }
     @media (max-width: 500px) {
       h1 {
         font-size: 36px;
